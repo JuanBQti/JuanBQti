@@ -13,10 +13,10 @@ My work sits at the intersection of theory and production constraints: I build r
 - Quant + empirical validation (simulation, backtesting, data analysis)
 
 ## Publications & writing
-- 📄 Publications[https://sites.google.com/site/jbeccuti/]
-- 🎓 Google Scholar[https://scholar.google.com/citations?user=S_78twYAAAAJ&hl=es]
+- 📄 [Publications](https://sites.google.com/site/jbeccuti/)
+- 🎓 [My Google Scholar](https://scholar.google.com/citations?user=S_78twYAAAAJ&hl=es)
 
 
 ## Get in touch
-- LinkedInhttps://www.linkedin.com/in/juan-ignacio-beccuti-vazquez-61829b118/]
-- Website[https://sites.google.com/site/jbeccuti/]
+- [My LinkedIn](https://www.linkedin.com/in/juan-ignacio-beccuti-vazquez-61829b118/)
+- [Website](https://sites.google.com/site/jbeccuti/)
