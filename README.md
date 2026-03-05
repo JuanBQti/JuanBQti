@@ -19,4 +19,4 @@ My work sits at the intersection of theory and production constraints: I build r
 
 ## Get in touch
 - [My LinkedIn](https://www.linkedin.com/in/juan-ignacio-beccuti-vazquez-61829b118/)
-- [Website](https://sites.google.com/site/jbeccuti/)
+  
